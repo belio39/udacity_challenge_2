@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject"
+  },
+  {
+    "ParameterKey": "CidrIp",
+    "ParameterValue": "0.0.0.0/0"
+  },
+  {
+    "ParameterKey": "IpProtocol",
+    "ParameterValue": "tcp"
+  },
+  {
+    "ParameterKey": "FromPort",
+    "ParameterValue": "80"
+  },
+  {
+    "ParameterKey": "Protocol",
+    "ParameterValue": "HTTP"
+  },
+  {
+    "ParameterKey": "ToPort",
+    "ParameterValue": "80"
+  }
+]
